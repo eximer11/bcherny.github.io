@@ -28,5 +28,6 @@ Criteria:
 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Cinnamon_fern.jpg" width=60 /> | Plantae | Osmundastrum cinnamomeum | Cinnamon fern | [70M](https://www.journals.uchicago.edu/doi/10.1086/314134)
 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Water-caltrops.jpg" width=60 /> | Plantae | Trapa natans | Water caltrop nuts | [66M](https://en.wikipedia.org/wiki/Water_caltrop#Fossil_record)
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Nelumbo_lutea_blossom.jpeg" width=60 /> | Plantae | Nelumbo lutea, Nelumbo nucifera | Lotus | [65M+](https://ebrary.net/27989/environment/lotus)
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dried_Eastern_brakenfern.jpg/220px-Dried_Eastern_brakenfern.jpg" width=60 /> | Plantae | Pteridium | Bracken | [55M+](https://en.wikipedia.org/wiki/Bracken)
 
 *Note: I'm a hobbyist, and not a paleobotanist. Additions and edits are [welcome](https://github.com/bcherny/bcherny.github.io/edit/main/_posts/2022-01-17-Dinosaur-food.md), if I misclassified or missed anything.*
